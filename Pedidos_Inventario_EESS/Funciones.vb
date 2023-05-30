@@ -572,9 +572,9 @@ Public Class Funciones
 
     End Sub
     Public Function conectar_BD() As MySqlConnection
-
-        'conexion = "Database=BBDD_Pedidos;server=127.0.0.1;port=3306;UID=root;Password=gasolinera"
-        conexion = "Database=BBDD_Pedidos;server=185.58.196.195;port=3306;UID=Tecnico;Password=gasolinera123"
+                                                                            'modificar password por la deseada
+      'conexion = "Database=BBDD_Pedidos;server=127.0.0.1;port=3306;UID=root;Password=tupasswordestandar"
+       conexion = "Database=BBDD_Pedidos;server=185.58.196.195;port=3306;UID=Tecnico;Password=tupasswordestandar"
         cnn = New MySqlConnection(conexion)
 
         Try
