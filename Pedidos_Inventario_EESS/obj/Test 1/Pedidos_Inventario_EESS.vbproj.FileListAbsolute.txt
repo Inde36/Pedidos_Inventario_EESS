@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.vbproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.vbproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.exe.config
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.vbproj.ResolveComReference.cache
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.Ayuda.resources
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.EESS_Pedidos.resources
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.Form2.resources
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.Form3.resources
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.Listado.resources
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.Resources.resources
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.vbproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Pedidos_Inventario_EESS\Pedidos_Inventario_EESS\obj\Test 1\Pedidos_Inventario_EESS.vbproj.CoreCompileInputs.cache
